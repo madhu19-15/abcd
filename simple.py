@@ -1,0 +1,2 @@
+print("maanya")
+print("madhu")
